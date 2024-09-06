@@ -2,9 +2,10 @@
 
 ### 🏞️ Some projects in pictures
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/AdrienCopy/movieBrowser/main/src/assets/picture/readme/iPhone-13-PRO-movie-browser-three.vercel.app(2).png" alt="Capture d'écran de l'application" width="200"/>
 <img src="https://raw.githubusercontent.com/AdrienCopy/quizz/main/src/assets/picture/screen3.png" alt="Capture d'écran de l'application" width="200"/>
-
+<p/>
 
 ### 📫 How to reach me
 
